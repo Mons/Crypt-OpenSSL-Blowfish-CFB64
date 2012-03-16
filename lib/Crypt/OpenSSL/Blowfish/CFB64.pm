@@ -19,11 +19,10 @@ sub decrypt_hex {
 
 1;
 __END__
-# Below is stub documentation for your module. You'd better edit it!
 
 =head1 NAME
 
-Crypt::OpenSSL::Blowfish::CFB64 - Perl extension for blah blah blah
+Crypt::OpenSSL::Blowfish::CFB64 - Blowfish CFB64 Algorithm using OpenSSL
 
 =head1 SYNOPSIS
 

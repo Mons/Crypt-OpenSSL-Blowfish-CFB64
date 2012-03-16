@@ -1,5 +1,5 @@
 NAME
-    Crypt::OpenSSL::Blowfish::CFB64 - Perl extension for blah blah blah
+    Crypt::OpenSSL::Blowfish::CFB64 - Blowfish CFB64 Algorithm using OpenSSL
 
 SYNOPSIS
       use Crypt::OpenSSL::Blowfish::CFB64;
